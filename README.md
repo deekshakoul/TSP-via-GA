@@ -1,5 +1,5 @@
 # TSP-via-GA
-Implement TSP by using Genetic algorithm.
+Implement Travelling Salesman Problem(TSP) by using Genetic algorithm.
 
 Representing the tour(one chromosome) by Path method and setting fixed population size, mutation and crossover probability; different cross-over and mutation techniques were implemented along with elitism to check the combination that returns most fittest tour i.e one with shortest distance.
 
